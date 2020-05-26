@@ -1,0 +1,11 @@
+{
+  "name": "tableauwebhook",
+  "version": "2.0.0",
+  "author": "Andre de Vries",
+  "description": "Lambda function for data quality warning",
+  "main": "index.js",
+  "license": "Apache-2.0",
+  "dependencies": {
+    "node-fetch": "^2.6.0"
+  }
+}
